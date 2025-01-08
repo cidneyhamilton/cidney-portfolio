@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 1
+date: 2018-06-10
+img: hero-u.png
+alt: image-alt
+project-date: June 2018
+client: Transolar Games
+category: Game Development
+description: A humorous fantasy roleplaying adventure game by the creators of the Quest for Glory Series. As rogue-in-training Shawn O'Connor, players will make friends in a haunted castle and use their skills for fun and profit.
+---
